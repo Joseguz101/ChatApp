@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_50126d1dd3d783debda433890c504dd96a7b7db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38c0f2d5be3c27ed0adf9aebe7b8e3aa0d78b9fb">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.6.2_9738ad1da1809c6528efa4936820569b675f1c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_cecad95abcf49f2f6e23a78bf3912114e238afbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_0ed42409dc23a85466d40c45c1271058194607f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_afd67c323836c05af6d92d51eef434b550031ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_058359b50e6147e3dd101ece562dab0cb7aa972a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_fb54bdbfbc967db45b56f8838051780adc061de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_a0fc41b03fe66c254773794175849558805104df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_2389f3f632d19cd863241d4427ae925d2b1f9c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_5bdc488783658aabbf9ebf5dfc7b41a2482d1af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_5cc65d9c67dd53a130ff9e904469274abef87fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.0.0_2137f808f0ec606c34df054ee5f0b0f50176b5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_aaada89a1e280ac8304810071a4cf49f687fa6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_6f4874ae88eb623f5c6d08537971608ebdb3b169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_495a90f258bd695725a19e150c84de1f94b7aec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_44f9290c1d11b04f4abd88b925cfdd951247d0e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_3b89b29165b5478c3f572104cb7393f8a0a6970d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.6.2_67a5c62cd720c9cab15bc22e35725d0d1ac93064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_e502649583f6a652cc37b491ae0bf107d49bcce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_1400129b3c94ca57739fee49f694154b70ddaf8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.6.2_8ca3e1a0bf23c0f9bf301248f53e7bdc3f7cfef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.2_e684abb63061ba8fa30382bd35781c1602b85319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_fe07e8b68b79a68a450e81b474a2d59c3297354c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_662a77d4b340655dc833176af4f52c459497f2b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-storage\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-storage-0.6.2_46fc9270bc908181cbcab1b9b3ef3080c9e1edb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_03bade8bcad700433079da5b7ee6291afa90efc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_b5043bfa698b2d4cf517959f7c627f721595db21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_d15ba6bf0674d5238884ff18d0bfdd0ba56c23b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_67542d383fb8c4d54edc692a7b70d7a01937b166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_8fe651fc5dd6467156b44c3ed5d2b2533c4bb12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_2ddeed9bd1c88c9ad6c3d695ca6d389cab69d10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_29de7700fa33cc47ae38915e958d416b32aff791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_fe6d08089bc6ad62e2643287811182eb577b8f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\glide-3.7.0_aa78835a8b0a957baded3bb7fd687de656fd12a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_1ef0ecd5c528cd086bbccde1725d47175181bc48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.2_a8612885159cad6542af88727ca7dda3d397cf1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.14.1_4bbd00619898d67affe54b63452bf153497efec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_5ac66552ec20f413c76ac5269152997662df211d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_1824cc368029c991d5d7b7e731e904f87d1ed6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_3de1cd6abd8a356487d6f3c576e244d56ebdd118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\joseg\AndroidStudioProjects\ChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_c4c5432f606dc4b034bd37d797145b49d59c5d65.jar" />
+    </item>
+
+</items>

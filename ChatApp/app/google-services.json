@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404890563481",
+    "firebase_url": "https://chatapp-39905.firebaseio.com",
+    "project_id": "chatapp-39905",
+    "storage_bucket": "chatapp-39905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404890563481:android:b04e2b0527be89d3",
+        "android_client_info": {
+          "package_name": "guzmanxp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404890563481-2t59a3g26fa5gmllui75uco9l17dhe13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "guzmanxp.chatapp",
+            "certificate_hash": "673EDDF017FC949D5074EAC17498E9A0265683CE"
+          }
+        },
+        {
+          "client_id": "404890563481-heprdjak98dnkipsp4948v33dv50rv4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7gwJOAWlJtUIFcXLQKUWeki4sLkHAIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404890563481-heprdjak98dnkipsp4948v33dv50rv4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
